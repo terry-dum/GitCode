@@ -22,3 +22,10 @@ git log --oneline
 git commit -m "changed commit comment" --amend - used to change the comment for the latest commit
 
 11) git log -p - used to see exactly what changes to file had been made
+
+12) git help log
+
+13) git reset xxxxxx
+xxxxxx -> can see from git log --oneline
+
+14) git rebase.... :x to quit.... 

@@ -35,3 +35,7 @@ xxxxxx -> can see from git log --oneline
 16) git branch - what branch you currently have and branch u currently at
 
 17) git switch <name>
+
+18) git merge -m "comment" <branch name> - go to main branch and type this to merge changes from other branch
+
+19) git branch -d <name> - to delete branch after u done

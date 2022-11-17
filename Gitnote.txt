@@ -39,3 +39,9 @@ xxxxxx -> can see from git log --oneline
 18) git merge -m "comment" <branch name> - go to main branch and type this to merge changes from other branch
 
 19) git branch -d <name> - to delete branch after u done
+
+20) git switch -c <name> - to create and switch branch
+
+21) when u try to merge, if merge conflict, u will bring to main|merging branch, then u go into the merging file and decide which u want, and u make changes, then u commit
+
+

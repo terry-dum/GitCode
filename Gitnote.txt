@@ -46,4 +46,6 @@ xxxxxx -> can see from git log --oneline
 
 22) git push --all - to push all the branch to github
 
+23) git fecth + git merge = git pull
+
 

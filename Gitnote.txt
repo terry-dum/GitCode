@@ -1,0 +1,18 @@
+1) git init - to create a repository
+
+2) git status
+
+3) git add <filename>, git add --all, git add -A, git add .
+- to track the file (if we make any changes)
+
+4) git commit -m "message"
+
+5) git diff - to see what file had been changed and the content inside
+
+6) git restore --staged <filename> - to untrack all the file
+
+7) git commit -a -m "message" - equal to git add + git commit
+
+8) git rm/ git restore - git rm is same as u delete in GUI
+
+9) my understanding, rm need to stage and commit, git rm can directly commit

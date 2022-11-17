@@ -44,4 +44,6 @@ xxxxxx -> can see from git log --oneline
 
 21) when u try to merge, if merge conflict, u will bring to main|merging branch, then u go into the merging file and decide which u want, and u make changes, then u commit
 
+22) git push --all - to push all the branch to github
+
 

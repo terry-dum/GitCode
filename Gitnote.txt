@@ -28,7 +28,7 @@ git commit -m "changed commit comment" --amend - used to change the comment for 
 13) git reset xxxxxx
 xxxxxx -> can see from git log --oneline
 
-14) git rebase.... :x to quit....
+14) git rebase.... :x to quit.... >>ignore first
 
 15) git branch <name>
 
